@@ -1,0 +1,17 @@
+{
+  "name": "user-info-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "Hrishikesh Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
